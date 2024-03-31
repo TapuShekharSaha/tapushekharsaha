@@ -11,8 +11,8 @@ app = Flask(__name__)
 
 
 @app.route('/', methods=['GET', 'POST'])
-def form():
-    return render_template('form.html')
+def index():
+    return render_template('index.html')
 
 @app.route('/submit',methods=["GET","POST"])
 def submit():  # put application's code here
@@ -38,7 +38,7 @@ def login():
         data =collection.find()
         return render_template("test.html",data=data)
     else:
-        return render_template("form.html")
+        return render_template("index.html")
 
 
 @app.route('/update/<string:item_id>', methods=["POST"])
