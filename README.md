@@ -1,8 +1,3 @@
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/72289361" width="150" alt="Tapu Shekhar Saha" style="border-radius: 50%;" />
-</p>
-
 <h1 align="center">👋 Hi, I'm Tapu Shekhar Saha</h1>
 <h3 align="center">💻 CTO • 🔬 Researcher • 🎨 Designer • ☁️ Cloud Enthusiast</h3>
 
