@@ -102,7 +102,7 @@
 
 ### 📄 My CV
 
-📁 [View or Download My CV (PDF)](https://github.com/TapuShekharSaha/TapuShekharSaha/blob/main/CV_Tapu_Shekhar_Saha.pdf)
+📁 [View or Download My CV (PDF)](https://github.com/TapuShekharSaha/tapushekharsaha/blob/TapuShekharSaha-patch-1/static/CV_Tapu_Shekhar_saha.pdf)
 
 ---
 
